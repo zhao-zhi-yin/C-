@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1574999123 source:d:\c”Ô—‘\c”Ô—‘¡∑œ∞\≈≈–Ú µ—È\sort1.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"sort.h"
+
+1574999123 d:\c”Ô—‘\c”Ô—‘¡∑œ∞\≈≈–Ú µ—È\sort.h
+
+1574394408 source:d:\c”Ô—‘\c”Ô—‘¡∑œ∞\≈≈–Ú µ—È\create.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"create.h"
+
+1574394539 d:\c”Ô—‘\c”Ô—‘¡∑œ∞\≈≈–Ú µ—È\create.h
+
+1574999149 source:d:\c”Ô—‘\c”Ô—‘¡∑œ∞\≈≈–Ú µ—È\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"create.h"
+	"sort.h"
+

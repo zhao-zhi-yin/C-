@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1574996690 source:d:\c”Ô—‘\c”Ô—‘¡∑œ∞\–£‘∞µº∫Ω\dijkstra.c
+	<stdio.h>
+	"dijkstra.h"
+	"graphmatrixutil.h"
+
+1574944155 d:\c”Ô—‘\c”Ô—‘¡∑œ∞\–£‘∞µº∫Ω\dijkstra.h
+	"graphmatrixutil.h"
+
+1574996063 source:d:\c”Ô—‘\c”Ô—‘¡∑œ∞\–£‘∞µº∫Ω\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dijkstra.h"
+
+1574947387 d:\c”Ô—‘\c”Ô—‘¡∑œ∞\–£‘∞µº∫Ω\graphmatrixutil.h
+
+1574998726 source:d:\c”Ô—‘\c”Ô—‘¡∑œ∞\–£‘∞µº∫Ω\graphmatrixutil.c
+	<stdio.h>
+	<stdlib.h>
+	"graphmatrixutil.h"
+

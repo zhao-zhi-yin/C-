@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573787730 source:d:\cÓïÑÔ\cÓïÑÔÁ·Ï°\¶ş²æÊ÷¼ì²åÈëÉ¾³ı\bstree.c
+	<stdio.h>
+	<stdlib.h>
+	"BSTree.h"
+
+1573787730 d:\cÓïÑÔ\cÓïÑÔÁ·Ï°\¶ş²æÊ÷¼ì²åÈëÉ¾³ı\bstree.h
+
+1573788612 source:d:\cÓïÑÔ\cÓïÑÔÁ·Ï°\¶ş²æÊ÷¼ì²åÈëÉ¾³ı\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BSTree.h"
+
